@@ -1,5 +1,7 @@
 # YoloV3 custom training video
 En este proyecto se presenta el entrenamiento con tu propio dataset para YOLOv3
+## Video Fuente:
+https://www.youtube.com/watch?v=JGS-FopcNyA
 
 ## Artículo original:
 https://pjreddie.com/media/files/papers/YOLOv3.pdf
